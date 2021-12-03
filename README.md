@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyabrous
 - 👀 I’m interested in becoming a good Mobile Developer
-- 🌱 I’m currently learning native Android developming
+- 🌱 I’m currently a learning native Android developming
 - 📫 How to reach me
  Email: ilyabrous@gmail.com
  Telegram: @ilyabrous
