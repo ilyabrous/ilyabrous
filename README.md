@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
-- 👀 I am interested in becoming a good mobile developer
+- 👀 I'm interested in becoming a good mobile developer
 - 🌱 I'm currently studying native development for android
 - 😉 Open to new opportunities!
 
