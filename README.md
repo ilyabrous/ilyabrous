@@ -8,8 +8,10 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=47C5FB)
 ![Android SDK](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&logoColor=097CDB)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-090909?style=for-the-badge&logo=Brain&logoColor=F8C52C)
-![Room](https://img.shields.io/badge/-Room-090909?style=for-the-badge&logo=https://cdn-icons-png.flaticon.com/512/28/28826.png&logoColor=F88C00)
+![Room](https://img.shields.io/badge/-Room-090909?style=for-the-badge&logo=sql&logoColor=F88C00)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=Internet&logoColor=E9D54D)
+![Custom View](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=best&logoColor=E9D54D)
+![Dagger Hilt](https://img.shields.io/badge/-Dagger%20Hilt-090909?style=for-the-badge&logo=wifi&logoColor=E9D54D)
 ![Clear Code](https://img.shields.io/badge/-Clear%20Code-090909?style=for-the-badge&logo=broom&logoColor=E5D3FF)
 ![Solid](https://img.shields.io/badge/-Solid-090909?style=for-the-badge&logo=solid&logoColor=6296CC)
 
