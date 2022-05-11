@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ilyabrous
 - 👀 I am interested in becoming a good mobile developer
 - 🌱 I'm currently studying native development for android
+- 😉 Open to new opportunities!
 
 ### My main projects
 1. [StarWars](https://github.com/ilyabrous/StarWars) - Clear Arch, Use Cases, Dagger Hilt, Coroutines, Flow, Jetpack Navigation, Room, Retrofit
