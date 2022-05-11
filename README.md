@@ -10,7 +10,7 @@
 ![Coroutines](https://img.shields.io/badge/-Coroutines-090909?style=for-the-badge&logo=Thread&logoColor=F8C52C)
 ![Room](https://img.shields.io/badge/-Room-090909?style=for-the-badge&logo=Room&logoColor=F88C00)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=Retrofit&logoColor=E9D54D)
-![Clear Code](https://img.shields.io/badge/-Clear+Code-090909?style=for-the-badge&logo=clear&logoColor=E5D3FF)
+![Clear Code](https://img.shields.io/badge/-Clear%20Code-090909?style=for-the-badge&logo=clear&logoColor=E5D3FF)
 ![Solid](https://img.shields.io/badge/-Solid-090909?style=for-the-badge&logo=solid&logoColor=6296CC)
 
 <!---
