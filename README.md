@@ -3,9 +3,9 @@
 - 🌱 I'm currently studying native development for android
 
 ### My main projects
-1. [StarWars](https://github.com/ilyabrous/StarWars) - Clear Arch, Dagger Hilt, Coroutines, Flow, Jetpack Navigation, Room, Retrofit
+1. [StarWars](https://github.com/ilyabrous/StarWars) - Clear Arch, Use Cases, Dagger Hilt, Coroutines, Flow, Jetpack Navigation, Room, Retrofit
 2. [TicTacToe](https://github.com/ilyabrous/TicTacToe) - Custom Views
-3. [Cryptocurrency](https://github.com/ilyabrous/Cryptocurrency) - Jetpack Compose, Dagger Hilt, Coroutines, Flow, Compose Navigation, Retrofit
+3. [Cryptocurrency](https://github.com/ilyabrous/Cryptocurrency) - Jetpack Compose, Clear Arch, Uses Cases, Dagger Hilt, Coroutines, Flow, Compose Navigation, Retrofit
 4. [Breaking News](https://github.com/ilyabrous/NewsApp) - Coroutines, Flow, Room, Retrofit
 5. [LeetCode](https://github.com/ilyabrous/LeetCode) - Just solving some algorithms
 
