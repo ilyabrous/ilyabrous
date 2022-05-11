@@ -10,7 +10,7 @@
 2. [TicTacToe](https://github.com/ilyabrous/TicTacToe) - Custom Views
 3. [Cryptocurrency](https://github.com/ilyabrous/Cryptocurrency) - Jetpack Compose, Dagger Hilt, Coroutines, Flow, Compose Navigation, Retrofit
 4. [Breaking News](https://github.com/ilyabrous/NewsApp) - Coroutines, Flow, Room, Retrofit
-5. [LeetCode](https://github.com/ilyabrous/LeetCode)
+5. [LeetCode](https://github.com/ilyabrous/LeetCode) - Just solving some algorithms
 
 ### Languages and Tools:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=47C5FB)
