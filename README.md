@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ilyabrous
 - 👀 I am interested in becoming a good mobile developer
 - 🌱 I'm currently studying native development for android
-- 📫 How to reach me
- Email: ilyabrous@gmail.com
- Telegram: @ilyabrous
 
 ### My main projects
 1. [StarWars](https://github.com/ilyabrous/StarWars) - Clear Arch, Dagger Hilt, Coroutines, Flow, Jetpack Navigation, Room, Retrofit
