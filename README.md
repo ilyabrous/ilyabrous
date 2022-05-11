@@ -10,14 +10,14 @@
 5. [LeetCode](https://github.com/ilyabrous/LeetCode) - Just solving some algorithms
 
 ### Languages and Tools:
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=47C5FB)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=oragne)
 ![Android SDK](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&logoColor=097CDB)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-090909?style=for-the-badge&logo=java&logoColor=F8C52C)
 ![Room](https://img.shields.io/badge/-Room-090909?style=for-the-badge&logo=mysql&logoColor=F88C00)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=wire&logoColor=E9D54D)
 ![Custom View](https://img.shields.io/badge/-Custom%20View-090909?style=for-the-badge&logo=best&logoColor=E9D54D)
 ![Dagger Hilt](https://img.shields.io/badge/-Dagger%20Hilt-090909?style=for-the-badge&logo=&logoColor=E9D54D)
-![Clear Code](https://img.shields.io/badge/-Clear%20Code-090909?style=for-the-badge&logo=broom&logoColor=E5D3FF)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-090909?style=for-the-badge&logo=broom&logoColor=E5D3FF)
 ![Solid](https://img.shields.io/badge/-Solid-090909?style=for-the-badge&logo=solid&logoColor=6296CC)
 
 ### Reach Me:
