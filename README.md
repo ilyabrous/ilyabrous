@@ -18,5 +18,5 @@
 ### Reach Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ilyabrous)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B3%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2-08a98a20b/)
-[![Gmail](https://img.shields.io/badge/-ilyabrous@gmail.com-090909?style=for-the-badge&logo=Gmail&logoColor=red)]
+![Gmail](https://img.shields.io/badge/-ilyabrous@gmail.com-090909?style=for-the-badge&logo=Gmail&logoColor=red)
 
