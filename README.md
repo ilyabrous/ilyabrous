@@ -1,14 +1,7 @@
 - 👋 Hi, I’m Ilya
-- 👀 I'm interested in becoming a good mobile developer
-- 🌱 I'm currently studying native development for android
-- 😉 Open to new opportunities!
-
-### My main projects
-1. [StarWars](https://github.com/ilyabrous/StarWars) - Clear Arch, Use Cases, Dagger Hilt, Coroutines, Flow, Jetpack Navigation, Room, Retrofit
-2. [TicTacToe](https://github.com/ilyabrous/TicTacToe) - Custom Views, SharedPreferences
-3. [Cryptocurrency](https://github.com/ilyabrous/Cryptocurrency) - Jetpack Compose, Clear Arch, Uses Cases, Dagger Hilt, Coroutines, Flow, Compose Navigation, Retrofit
-4. [Breaking News](https://github.com/ilyabrous/NewsApp) - Coroutines, Flow, Room, Retrofit, Custom Pagination
-5. [LeetCode](https://github.com/ilyabrous/LeetCode) - Just solving some algorithms
+- 📱  I'm a mobile developer with 2 years of experience in Android app development.
+- 🌱 I'm constantly learning and improving my skills in native Android development.
+- 😉 I'm open to new opportunities in the mobile development field!
 
 ### Languages and Tools:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=oragne)
@@ -24,7 +17,6 @@
 ### Reach Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ilyabrous)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B3%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2-08a98a20b/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id391203471)
 [![Gmail](https://img.shields.io/badge/-ilyabrous@gmail.com-090909?style=for-the-badge&logo=Gmail&logoColor=red)](https://vk.com/id391203471)
 
 <!---
