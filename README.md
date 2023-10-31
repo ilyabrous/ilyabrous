@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ilya
-- 📱 I'm a mobile developer with 2 years of experience in Android app development.
+### About me:
+- 👋 Hi, I’m Ilya.
+- 📱  &nbsp;&nbsp;I'm a mobile developer with 2 years of experience in Android app development.
 - 🌱 I'm constantly learning and improving my skills in native Android development.
 - 😉 I'm open to new opportunities in the mobile development field!
 
